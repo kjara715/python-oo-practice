@@ -1,0 +1,15 @@
+#here is a list of foods
+
+#fruits:
+
+banana
+grapes
+apples
+pomegranite
+
+#vegetables:
+
+carrots
+kale
+spinach
+lettuce
